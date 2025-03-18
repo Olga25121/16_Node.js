@@ -1,0 +1,18 @@
+{
+  "name": "install_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Olga25121"
+  },
+  "author": "Olga Jensen",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "olga_generate_password": "^1.0.0"
+  }
+}
